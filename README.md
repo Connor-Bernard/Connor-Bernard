@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://connorbernard.dev/assets/files/Connor_Resume.pdf](https://connorbernard.dev/assets/files/Connor_Resume.pdf)
 
-- ⚡ Fun fact **I tend not to add spaces after parentheses after `if` or `for` conditions because I like to think of them as pseudo-functions**
+- ⚡ Fun fact **I have one hand!  Ask me about it sometime 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
