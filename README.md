@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Connor Bernard</h1>
-<h3 align="center">A passionate frontend developer from Woodside, CA</h3>
+<h3 align="center">A passionate full stack engineer from Woodside, CA</h3>
 
-- 🔭 I’m currently working on [GradeView](https://github.com/Connor-Bernard/gradeView)
+- 🔭 I’m currently working on [GradeView](https://github.com/AFA-Tooling/GradeView)
 
-- 🌱 I’m currently learning **React, Next, Go, Kubernetes**
+- 🌱 I’m currently learning **Terraform and Jenkins**
 
 - 👨‍💻 Check out my web-portfolio [https://www.connorbernard.dev/](https://www.connorbernard.dev/)
 
