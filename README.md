@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GradeView](https://github.com/AFA-Tooling/GradeView)
 
-- 🌱 I’m currently learning **Terraform and Jenkins**
+- 🌱 I’m currently learning **Terraform, PyTorch, and Jenkins**
 
 - 👨‍💻 Check out my web-portfolio [https://www.connorbernard.dev/](https://www.connorbernard.dev/)
 
